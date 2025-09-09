@@ -36,7 +36,7 @@ You’ll need the following tools:
 1. Clone the repository:
 
     ```bash
-    (https://github.com/hitankshah/Ngo_connect_portal)
+    (https://github.com/Prachii-kumari/NGO-Donation-Volunteer-Portal.git)
     ```
 
 2. Navigate to the project directory:
